@@ -39,9 +39,7 @@ Convert user questions into embeddings.
 Retrieve relevant document chunks.
 Pass retrieved context to Gemma.
 Generate the final answer.
-📸 Application Screenshots
 
-Add screenshots of your running chatbot here.
 
 ▶️ How to Run
 Open the project notebook in Google Colab.
@@ -56,6 +54,8 @@ Process the document and start asking questions.
 Launch the Gradio interface.
 
 Note: Ollama must be running in the Colab runtime. The Gradio demo link is temporary and requires an active runtime.
+LIVE Demo Section
+https://ba8c2da14aa88de724.gradio.live/?utm_source=chatgpt.com
 
 🎯 Project Objective
 
